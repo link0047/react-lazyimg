@@ -1,0 +1,19 @@
+{
+  "name": "react-lazyimg",
+  "version": "1.0.0",
+  "description": "lazy load images in react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "react-component",
+    "lazyload",
+  ],
+  "author": "Jamaal Williams <link0047@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "react": "^15.5.4"
+  }
+}
